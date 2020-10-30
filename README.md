@@ -1,6 +1,3 @@
-# So sorry Owner of this GEM - I'm clone for fix Mongoid new version 7.1.2 my project
-Clone from https://rubygems.org/gems/acts-as-taggable-on-mongoid
-
 # ActsAsTaggableOnMongoid
 
 [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) is the clear leader in tagging
